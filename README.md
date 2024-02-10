@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script simulates Sigma-Delta modulation, a signal processing technique widely employed in analog-to-digital converters (ADCs). The simulation, implemented with the help of the SciPy library, focuses on the modulation process, providing insights into the modulated and demodulated signals.
+This Python script simulates Sigma-Delta modulation, an oversampling method utilized in analog-to-digital converters (ADCs), to encode signals into low bit-depth digital signals at high sample frequencies. Implemented with SciPy, the simulation focuses on the modulation process, allowing analysis into the modulated and demodulated signals.
 
 ## Features
 
