@@ -8,3 +8,11 @@ This Python script simulates Sigma-Delta modulation, an oversampling method util
 
 - Applied signal processing techniques for high resolution analog-to-digital conversion
 - Utilized Butterworth filtering for demodulation, verified through visualization
+
+# Simulation
+
+<img src='./simulation.png' alt='simulation' width=800px>
+
+- Overlapped:
+
+<img src='./overlapped.png' alt='overlapped' width=800px>
